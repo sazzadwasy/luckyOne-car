@@ -1,0 +1,12 @@
+.cart-items{
+    margin-left: 5px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+}
+.choose-btn{
+    left: 30px;
+    bottom: 180px;
+}

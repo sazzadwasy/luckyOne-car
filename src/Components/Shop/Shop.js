@@ -1,3 +1,4 @@
+import { faCartFlatbed } from '@fortawesome/free-solid-svg-icons';
 import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Products from '../Products/Products';
@@ -12,10 +13,16 @@ const Shop = () => {
             .then(data => setProducts(data))
     }, []);
     const showInfoInCart = (product) => {
-        console.log(product)
+
         const newCart = [...cart, product]
         setCart(newCart)
     }
+    const randomChoose = () => {
+        const index = Math.floor(Math.random() * cart.length)
+        alert(cart[index].name)
+
+    }
+    console.log(cart)
     return (
         <div>
             <div className='shop-container'>
@@ -30,7 +37,9 @@ const Shop = () => {
                     }
                 </div>
                 <div className='cart-container'>
-                    <Cart cart={cart}></Cart>
+                    <Cart cart={cart}
+                        randomChoose={randomChoose}
+                    ></Cart>
                 </div>
             </div>
         </div>
@@ -38,3 +47,4 @@ const Shop = () => {
 };
 
 export default Shop;
+//ans: 
