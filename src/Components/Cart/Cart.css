@@ -8,5 +8,8 @@
 }
 .choose-btn{
     left: 30px;
-    bottom: 180px;
+    background-color: burlywood;
+    padding: 7px 8px;
+    border-radius: 5px;
+    margin-left: 5px;
 }
