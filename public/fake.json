@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Haval Jollion",
+        "price": 5000,
+        "img": "https://carsguide-res.cloudinary.com/image/upload/f_auto%2Cfl_lossy%2Cq_auto%2Ct_default/v1/editorial/2021-Haval-Jolion-1001x565.jpg",
+        "id": 201
+    },
+    {
+        "name": "Marcedes",
+        "price": 7000,
+        "img": "https://images.news18.com/ibnlive/uploads/2021/11/2022-mercedes-amg-sl-16358276634x3.jpg",
+        "id": 202
+    },
+    {
+        "name": "BMW-Sedan",
+        "price": 8000,
+        "img": "https://cdn.carbuzz.com/gallery-images/2021-bmw-5-series-sedan-frontal-aspect-carbuzz-816717.jpg",
+        "id": 203
+    },
+    {
+        "name": "Huyndai",
+        "price": 3000,
+        "img": "https://www.hyundaicanada.com/-/media/hyundai/showroom/2022/ioniq-hybrid/navigation/nav_my22_ioniqhybrid.jpg",
+        "id": 204
+    },
+    {
+        "name": "Nissan Extrail",
+        "price": 4000,
+        "img": "https://ultranextgen.com/wp-content/uploads/2020/12/20201227_162504.jpg",
+        "id": 205
+    },
+    {
+        "name": "Honda Crv",
+        "price": 3500,
+        "img": "https://cdn.motor1.com/images/mgl/PxNkW/s1/2019-honda-cr-v-hybrid-euro-spec.jpg",
+        "id": 206
+    },
+    {
+        "name": "Honda Civic",
+        "price": 2500,
+        "img": "https://manofmany.com/wp-content/uploads/2022/02/2021-HONDA-CIVIC-TYPE-R-LIMITED-EDITION-Feature.png",
+        "id": 207
+    },
+    {
+        "name": "Toyota Premeo ",
+        "price": 2000,
+        "img": "https://www.ranconcarhub.com/wp-content/uploads/2021/03/01-2.jpg",
+        "id": 208
+    },
+    {
+        "name": "Toyota Aqua",
+        "price": 1800,
+        "img": "https://www.lankaholidays.com/pics/24789/Toyota-Aqua-Japan-February-2012b.jpg",
+        "id": 209
+    },
+    {
+        "name": "Toyota Chr",
+        "price": 4500,
+        "img": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1578309603/autoexpress/2019/12/01_25.jpg",
+        "id": 301
+    },
+    {
+        "name": "Toyota Camry",
+        "price": 3800,
+        "img": "https://static.cargurus.com/images/site/2021/01/18/11/09/2021_toyota_camry-pic-2464115850922384451-640x480.jpeg",
+        "id": 302
+    },
+    {
+        "name": "Toyota Alphard",
+        "price": 4200,
+        "img": "https://www.ranconcarhub.com/wp-content/uploads/2020/09/01-1.jpg",
+        "id": 303
+    }
+]
