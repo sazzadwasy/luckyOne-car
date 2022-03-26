@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# react-assignment-8
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [Live site](https://radiant-pixie-d6a603.netlify.app/).
 
 ## Available Scripts
 
